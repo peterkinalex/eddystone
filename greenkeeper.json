@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "libraries/javascript/eddystone-advertising/package.json"
+      ]
+    }
+  }
+}

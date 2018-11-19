@@ -1,5 +1,7 @@
 # Eddystone
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/peterkinalex/eddystone.svg)](https://greenkeeper.io/)
+
 <img align="left" src="res/logo/eddystone_logo.png" hspace="15" style="float: left">Eddystone is a protocol specification that defines a Bluetooth low energy (BLE) message format for proximity beacon messages. It describes several different frame types that may be used individually or in combinations to create beacons that can be used for a variety of applications.
 
 ## Design Goals
